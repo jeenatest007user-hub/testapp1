@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is gluten?",
+    "options": [
+      "A protein",
+      "A vitamin",
+      "A fruit",
+      "A fat"
+    ],
+    "correct": "A protein",
+    "hint": "Found in wheat"
+  },
+  {
+    "question": "Is rice gluten-free?",
+    "options": [
+      "Yes",
+      "No",
+      "Only brown rice",
+      "Only cooked rice"
+    ],
+    "correct": "Yes",
+    "hint": "It\u2019s naturally gluten-free!"
+  },
+  {
+    "question": "Which food contains gluten?",
+    "options": [
+      "Bread",
+      "Banana",
+      "Milk",
+      "Eggs"
+    ],
+    "correct": "Bread",
+    "hint": "Made from wheat"
+  },
+  {
+    "question": "Is corn gluten-free?",
+    "options": [
+      "Yes",
+      "No",
+      "Only in flakes",
+      "Only fresh corn"
+    ],
+    "correct": "Yes",
+    "hint": "Corn is safe!"
+  },
+  {
+    "question": "What should people with celiac disease avoid?",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Apples",
+      "Cheese"
+    ],
+    "correct": "Wheat",
+    "hint": "Wheat contains gluten"
+  }
+]
